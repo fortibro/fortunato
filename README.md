@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## who am i?
+fortunatus is a latin word meaning happy, lucky e.t.c according to the bible st.fortunatus is mentioned by st. paul in corinthians 16:17 "i was glad when stephans, fortunatus and achaicus arrived, bcoz they have supplied what was lacking from you" BUT i'm not a saint that's my considered opinion. i am just a computer programmer I activelly maintain many javascript,PHP repository and have contributed to other repositories
 
-You share with me on [facebook](https://www.facebook.com/fortchal) to maintain and preview the content for your website in Markdown files.
+You can share with me on [facebook](https://www.facebook.com/fortchal) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
